@@ -147,7 +147,7 @@ Coaching Project/
 - Clean menu-driven console UI
 
 ---
+## 📄 Documentation
 
-## 9. How to Run the Application
-
-### Compile
+- [JVM Architecture Report](docs/JVM_Architecture_Report.pdf)
+- [Environment Setup Instructions](docs/Environment_Setup_Instructions.pdf)

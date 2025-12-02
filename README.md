@@ -2,7 +2,7 @@
 
 ## Author
 **Suneel Soni**  
-Subject: *Java Fundamentals Assignment*
+Subject: *Java Fundamentals Assignment – Suneel Soni*
 
 ---
 
@@ -151,8 +151,4 @@ Coaching Project/
 
 - [JVM Architecture Report](docs/JVM_Architecture_Report.pdf)
 - [Environment Setup Instructions](docs/Environment_Setup_Instructions.pdf)
-
----
-Submission Details
-**Subject:** Java Fundamentals Assignment – Suneel Soni
 

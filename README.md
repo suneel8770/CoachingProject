@@ -31,7 +31,7 @@ This project fulfils all assignment learning objectives:
 
 ## 3. Environment Setup
 ### Steps Followed
-1. Installed JDK (version used: **X.X**)
+1. Installed JDK (version used: 21)
 2. Configured environment variables:
     - `JAVA_HOME`
     - Updated `PATH`
@@ -39,8 +39,6 @@ This project fulfils all assignment learning objectives:
 
 
 4. Successfully compiled and executed the project.
-
-*(Insert your screenshots here.)*
 
 ---
 
